@@ -1,0 +1,102 @@
+/* Global Window Styling */
+window {
+    background-color: #F5F5F5;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Notebook/Tabs Styling */
+notebook header {
+    background-color: #F5F5F5;
+    border-bottom: none;
+}
+
+notebook tab {
+    padding: 8px 16px;
+    margin: 4px;
+    border-radius: 20px;
+    /* Pill shape */
+    background-color: transparent;
+    color: #444;
+    font-weight: 500;
+}
+
+notebook tab:checked {
+    background-color: #1976D2;
+    color: white;
+}
+
+/* Card Styling for Sidebar Categories */
+.card {
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    color: #333;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 4px;
+}
+
+/* Buttons */
+button {
+    border-radius: 4px;
+    border: none;
+    padding: 6px 12px;
+    color: white;
+    font-weight: 600;
+}
+
+/* Specific Fix for ComboBox Buttons to be visible */
+combobox button {
+    color: #333;
+    background-color: #FFFFFF;
+    border: 1px solid #CED4DA;
+}
+
+.btn-primary {
+    background-color: #1976D2;
+}
+
+.btn-primary:active {
+    background-color: #1565C0;
+}
+
+.btn-danger {
+    background-color: #DC3545;
+}
+
+.btn-danger:active {
+    background-color: #C82333;
+}
+
+.btn-success {
+    background-color: #28A745;
+}
+
+.btn-success:active {
+    background-color: #218838;
+}
+
+/* Entry Fields */
+entry {
+    background-color: #FFFFFF;
+    border: 1px solid #CED4DA;
+    border-radius: 4px;
+    padding: 4px;
+    color: #333;
+}
+
+entry:focus {
+    border-color: #1976D2;
+}
+
+/* Labels */
+label {
+    color: #333;
+}

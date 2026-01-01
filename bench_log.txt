@@ -1,0 +1,21 @@
+Starting Benchmark
+Size: 11000, Algo: 0, Time: 482.00 ms
+Size: 11000, Algo: 1, Time: 234.00 ms
+Size: 11000, Algo: 2, Time: 3.00 ms
+Size: 11000, Algo: 3, Time: 3.00 ms
+Size: 22000, Algo: 0, Time: 2025.00 ms
+Size: 22000, Algo: 1, Time: 1200.00 ms
+Size: 22000, Algo: 2, Time: 5.00 ms
+Size: 22000, Algo: 3, Time: 6.00 ms
+Size: 33000, Algo: 0, Time: 4695.00 ms
+Size: 33000, Algo: 1, Time: 3014.00 ms
+Size: 33000, Algo: 2, Time: 11.00 ms
+Size: 33000, Algo: 3, Time: 10.00 ms
+Size: 44000, Algo: 0, Time: 8650.00 ms
+Size: 44000, Algo: 1, Time: 6340.00 ms
+Size: 44000, Algo: 2, Time: 16.00 ms
+Size: 44000, Algo: 3, Time: 19.00 ms
+Size: 55000, Algo: 0, Time: 16165.00 ms
+Size: 55000, Algo: 1, Time: 10483.00 ms
+Size: 55000, Algo: 2, Time: 24.00 ms
+Size: 55000, Algo: 3, Time: 22.00 ms
