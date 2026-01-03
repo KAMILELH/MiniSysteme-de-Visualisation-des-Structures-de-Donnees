@@ -1,4 +1,8 @@
 # MiniSysteme-de-Visualisation-des-Structures-de-Donnees
+![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![GTK3](https://img.shields.io/badge/GUI-GTK3-green?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algos-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 # Data Structures & Algorithms Visualizer
 
 A comprehensive C application using GTK+ 3 to visualize and interact with various core computer science data structures and algorithms. This project provides an interactive graphical interface for sorting arrays, managing linked lists, manipulating trees, and traversing graphs.
